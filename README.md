@@ -1,4 +1,5 @@
-# O'Reilly live course: Hands-On Chatbot and Conversational UI Development by Denis Rothman
+# Hands-On Chatbot and Conversational UI Development 
+## by Denis Rothman for an O'Reilly live course
 
 ## Goal
 This document is for a live course on O'Reilly's e-learning platform.
