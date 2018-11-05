@@ -7,8 +7,9 @@ https://www.safaribooksonline.com/live-training/courses/hands-on-chatbot-and-con
 
 ## Background
 The courses are an extension of Artificial Intelligence by Example by Denis Rothman:
-https://search.packtpub.com/?query=Denis%20Rothman&refinementList%5Breleased%5D%5B0%5D=Available
-https://www.amazon.com/Artificial-Intelligence-Example-intelligence-artificial-dp-1788990544/dp/1788990544/ref=mt_paperback?_encoding=UTF8&me=&qid=
+### https://search.packtpub.com/?query=Denis%20Rothman&refinementList%5Breleased%5D%5B0%5D=Available
+
+### https://www.amazon.com/Artificial-Intelligence-Example-intelligence-artificial-dp-1788990544/dp/1788990544/ref=mt_paperback?_encoding=UTF8&me=&qid=
 
 ## Programs
 The programs will be available 48h prior to the beginning of the course on GitHub.
