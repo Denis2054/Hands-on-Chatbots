@@ -1,5 +1,5 @@
 # Hands-On Chatbot and Conversational UI Development 
-## by Denis Rothman for an O'Reilly live course
+## by Denis Rothman for live Packt and Safari Online training 
 
 ## Goal
 This document is for a live course on O'Reilly's e-learning platform.
