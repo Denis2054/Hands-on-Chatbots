@@ -18,6 +18,13 @@ The programs will be available 48h prior to the beginning of the course on GitHu
 Presently, the files are there but the body will only be uploaded before the course.
 The programs run both on Windows and Linux (Ubuntu).
 
+## LICENSE
+The programs are under the MIT License.
+THe programs are for educational purposes.
+Thus do not use them before checking Google, Facebook and Twitter security policies.
+Take your time and explore each policy rule.
+It is a major part of a project.
+
 ## Virual Ubuntu Machine
 A link to a preinstalled Virtual Machine Linux (Ubuntu)will be provided below 48h prior to the beginning of the course.
 VM download link: URL
