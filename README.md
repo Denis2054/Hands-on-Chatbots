@@ -21,6 +21,7 @@ The programs run both on Windows and Linux (Ubuntu).
 ## Virual Ubuntu Machine
 A link to a preinstalled Virtual Machine Linux (Ubuntu)will be provided below 48h prior to the beginning of the course.
 VM download link: URL
+Password: neo
 
 ## Outline of the course
 
