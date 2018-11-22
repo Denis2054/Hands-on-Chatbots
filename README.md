@@ -29,7 +29,7 @@ The more you respect privacy and security policies, the more your users and cust
 
 ## Virual Ubuntu Machine
 A link to a preinstalled Virtual Machine Linux (Ubuntu)will be provided below 48h prior to the beginning of the course.
-VM download link: URL
+VM download link: https://drive.google.com/open?id=1ct51CGmFAM6tUgKWdlrWrtP7riTtiDLi
 Password: neo
 
 ## Outline of the course
