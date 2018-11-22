@@ -5,13 +5,13 @@
       
 ## Goal
 This document is for a live course on O'Reilly's e-learning platform.
-You can find details on the course here:
+You can find details on the course here:<br/>
 [Link to course registration](https://www.safaribooksonline.com/live-training/courses/hands-on-chatbot-and-conversational-ui-development/0636920223665/)
 
 ## Background
-The courses are an extension of Artificial Intelligence by Example by Denis Rothman:
+The courses are an extension of Artificial Intelligence by Example by Denis Rothman:<br/>
 
-[Obtain the book on Packt](https://search.packtpub.com/?query=Denis%20Rothman&refinementList%5Breleased%5D%5B0%5D=Available)
+[Obtain the book on Packt](https://search.packtpub.com/?query=Denis%20Rothman&refinementList%5Breleased%5D%5B0%5D=Available)<br/>
 
 [Obtain the book on Amazon](https://www.amazon.com/Artificial-Intelligence-Example-intelligence-artificial-dp-1788990544/dp/1788990544/ref=mt_paperback?_encoding=UTF8&me=&qid=)
 
@@ -81,8 +81,8 @@ You will be implementing this during the live training on your website (you can 
 With this in mind, the course will take you where you need to be to finalize your goals right after the course.
  
  
-Materials, downloads, or Supplemental Content needed in advance
-·         https://github.com/Denis2054/Hands-on-Chatbot s (The material will be downloadable in real-time during the course. The size of the packages will remain small enough to that effect.)
+Materials, downloads, or Supplemental Content needed in advance <br/>
+·         [Github programs](https://github.com/Denis2054/Hands-on-Chatbots) 
 ·         Google Account
 ·         Dialogflow account
 ·         Chrome (just for the course to be sure; after the course, any browser that works well with JavaScript) with Chrome V8
@@ -164,12 +164,12 @@ Interactive Discussion on the basic and ground-breaking aspects of the course
 ## About the Instructor
  
 Denis Rothman graduated from l'Université Paris-Sorbonne and l'Université Paris-Diderot, writing one of the very first word2matrix embedding solutions.  
-He began his career authoring one of the first AI cognitive Chatbot 30+ years ago applied to a cognitive & digitized language teaching Chatbot. He customized it for Moët et Chandon (LVMH) and scores of companies in various forms.<br/>[more...](https://www.linkedin.com/pulse/did-you-miss-ai-parsing-train-denis-rothman)
+He began his career authoring one of the first AI cognitive Chatbot 30+ years ago applied to a cognitive & digitized language teaching Chatbot. He customized it for Moët et Chandon (LVMH) and scores of companies in various forms.[more...](https://www.linkedin.com/pulse/did-you-miss-ai-parsing-train-denis-rothman)<br/>
 He has authored a profit orientated AI resource optimizing system written in Horn Clauses in Prolong for IBM and implemented in corporate environments. He also transposed it in C++, Java and presently in Python/Tensorflow. 
 In the years after, he authored an AI APS (Advanced Planning and Scheduling) solution based on cognitive patterns. This #AI software is used worldwide to this day in the aerospace, train, energy, apparel and many other corporate fields. 
  
 Name: Denis Rothman
-Personal Websites and pages:
+Personal Websites and pages:<br/>
 [bio on Amazon](https://www.amazon.com/Denis-Rothman/e/B07DFRCJG8)<br/>
 [web site](http://www.eco-ai-horizons.com/)<br/>
 [LinkedIn](https://www.linkedin.com/in/denis-rothman-0b034043)<br/>
