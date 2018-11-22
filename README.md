@@ -6,7 +6,7 @@
 ## Goal
 This document is for a live course on O'Reilly's e-learning platform.
 You can find details on the course at this link:
-![Course](https://www.safaribooksonline.com/live-training/courses/hands-on-chatbot-and-conversational-ui-development/0636920223665/)
+https://www.safaribooksonline.com/live-training/courses/hands-on-chatbot-and-conversational-ui-development/0636920223665/
 
 ## Background
 The courses are an extension of Artificial Intelligence by Example by Denis Rothman:
