@@ -1,12 +1,12 @@
 # Hands-On Chatbot and Conversational UI Development 
 ## by Denis Rothman for live Packt and Safari Online training 
 
- https://github.com/Denis2054/Hands-on-Chatbots/HOC.png
+ https://github.com/Denis2054/Hands-on-Chatbots/blob/master/HOC.png
       
 ## Goal
 This document is for a live course on O'Reilly's e-learning platform.
 You can find details on the course at this link:
-https://www.safaribooksonline.com/live-training/courses/hands-on-chatbot-and-conversational-ui-development/0636920223665/
+![Course]https://www.safaribooksonline.com/live-training/courses/hands-on-chatbot-and-conversational-ui-development/0636920223665/
 
 ## Background
 The courses are an extension of Artificial Intelligence by Example by Denis Rothman:
