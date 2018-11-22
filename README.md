@@ -14,11 +14,11 @@ https://search.packtpub.com/?query=Denis%20Rothman&refinementList%5Breleased%5D%
 https://www.amazon.com/Artificial-Intelligence-Example-intelligence-artificial-dp-1788990544/dp/1788990544/ref=mt_paperback?_encoding=UTF8&me=&qid=
 
 ## Programs
-The programs will be available 48h prior to the beginning of the course on GitHub.
-Presently, the files are there but the body will only be uploaded before the course.
-The programs run both on Windows and Linux (Ubuntu).
+The programs for the course run both on Windows and Linux (see Ubuntu VM below).
+You can view and download them.
+Some programs will be developed and run on cloud platforms.
 
-## Licese and disclaimer
+## License and disclaimer
 The programs are under the MIT License.
 THe programs are for educational purposes.
 Thus do not use them before checking Google, Facebook and Twitter security policies.
@@ -27,10 +27,15 @@ Take your time and explore each policy rule.
 It is a major part of a project.
 The more you respect privacy and security policies, the more your users and customers will trust you!
 
-## Virual Ubuntu Machine
-A link to a preinstalled Virtual Machine Linux (Ubuntu)will be provided below 48h prior to the beginning of the course.
+## Virual Linux(Ubuntu) Machine
+A VM for Oracle VM VirtualBox version 5.2.8 is available for the course.
+It contains the pre-configured packages for node.js, ngrok and Python 3.x
 VM download link: https://drive.google.com/open?id=1ct51CGmFAM6tUgKWdlrWrtP7riTtiDLi
 Password: neo
+Once the file is downloaded
+-first run an anti-virus on the file
+-then go to "Files" and select import VM.
+
 
 ## Outline of the course
 
