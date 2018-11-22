@@ -18,7 +18,7 @@ The courses are an extension of Artificial Intelligence by Example by Denis Roth
 ## Programs
 The programs for the course run both on Windows and Linux (see Ubuntu VM below).
 You can view and download them.
-Some programs will be developed and run on cloud platforms.
+Other programs will be developed and run on cloud platforms.
 
 ## License and disclaimer
 The programs are under the MIT License.
