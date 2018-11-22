@@ -1,6 +1,8 @@
 # Hands-On Chatbot and Conversational UI Development 
 ## by Denis Rothman for live Packt and Safari Online training 
 
+       ![alt text] https://github.com/Denis2054/Hands-on-Chatbots/HOC.png
+      
 ## Goal
 This document is for a live course on O'Reilly's e-learning platform.
 You can find details on the course at this link:
