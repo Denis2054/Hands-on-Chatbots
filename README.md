@@ -164,16 +164,16 @@ Interactive Discussion on the basic and ground-breaking aspects of the course
 ## About the Instructor
  
 Denis Rothman graduated from l'Université Paris-Sorbonne and l'Université Paris-Diderot, writing one of the very first word2matrix embedding solutions.  
-He began his career authoring one of the first AI cognitive Chatbot 30+ years ago applied to a cognitive & digitized language teaching Chatbot. He customized it for Moët et Chandon (LVMH) and scores of companies in various forms. [more...](https://www.linkedin.com/pulse/did-you-miss-ai-parsing-train-denis-rothman)
+He began his career authoring one of the first AI cognitive Chatbot 30+ years ago applied to a cognitive & digitized language teaching Chatbot. He customized it for Moët et Chandon (LVMH) and scores of companies in various forms.<br/>[more...](https://www.linkedin.com/pulse/did-you-miss-ai-parsing-train-denis-rothman)
 He has authored a profit orientated AI resource optimizing system written in Horn Clauses in Prolong for IBM and implemented in corporate environments. He also transposed it in C++, Java and presently in Python/Tensorflow. 
 In the years after, he authored an AI APS (Advanced Planning and Scheduling) solution based on cognitive patterns. This #AI software is used worldwide to this day in the aerospace, train, energy, apparel and many other corporate fields. 
  
 Name: Denis Rothman
 Personal Websites and pages:
-[bio on Amazon](https://www.amazon.com/Denis-Rothman/e/B07DFRCJG8)
-[web site](http://www.eco-ai-horizons.com/)
-[LinkedIn](https://www.linkedin.com/in/denis-rothman-0b034043)
-[Blog](http://www.artificialintelligencebyexample.com/)
+[bio on Amazon](https://www.amazon.com/Denis-Rothman/e/B07DFRCJG8)<br/>
+[web site](http://www.eco-ai-horizons.com/)<br/>
+[LinkedIn](https://www.linkedin.com/in/denis-rothman-0b034043)<br/>
+[Blog](http://www.artificialintelligencebyexample.com/)<br/>
  
  
  
