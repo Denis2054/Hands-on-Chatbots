@@ -5,7 +5,7 @@
       
 ## Goal
 This document is for a live course on O'Reilly's e-learning platform.
-You can find details on the course here:<br/>
+You can find details on the course at the following link:<br/>
 [Link to course registration](https://www.safaribooksonline.com/live-training/courses/hands-on-chatbot-and-conversational-ui-development/0636920223665/)
 
 ## Background
