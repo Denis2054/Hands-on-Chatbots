@@ -29,6 +29,11 @@ Take your time and explore each policy rule.
 It is a major part of a project.
 The more you respect privacy and security policies, the more your users and customers will trust you!
 
+## Terms of Service and Privacy Policy
+
+When creating Twitter, Facebook, for example, you will need to provide your terms of service and privacy policy. There are plenty of examples online.[Google some sites and you will find examples you can use](https://https://www.google.fr/search?ei=X7n7W4nvH62flwSMrJC4DA&q=terms+of+service+form+and+privacy+policy+examples&oq=terms+of+service+form+and+privacy+policy+examples&gs_l=psy-ab.3...16296.25335..25729...0.0..0.198.5066.33j17......0....1..gws-wiz.......0i71j35i39j0i22i30j0i22i10i30j33i22i29i30j33i160j33i21.U2u34ct0W1I) <br>
+
+
 ## Virual Linux(Ubuntu) Machine
 A VM for Oracle VM VirtualBox version 5.2.8 is available for the course.
 It contains the pre-configured packages for node.js, ngrok and Python 3.x
