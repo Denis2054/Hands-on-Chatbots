@@ -1,4 +1,5 @@
 # Hands-On Chatbot and Conversational UI Development 
+## February 4 & 5, 2019
 ## by Denis Rothman for live Packt and Safari Online training 
 
  ![Hand-On Chatbots](https://github.com/Denis2054/Hands-on-Chatbots/blob/master/HOC.png)
@@ -6,7 +7,7 @@
 ## Goal
 This document is for a live course on O'Reilly's e-learning platform.
 You can find details on the course at the following link:<br/>
-[Link to course registration](https://www.safaribooksonline.com/live-training/courses/hands-on-chatbot-and-conversational-ui-development/0636920223665/)
+[Link to course registration](https://www.safaribooksonline.com/live-training/courses/hands-on-chatbot-and-conversational-ui-development/0636920227397/)
 
 ## Background
 The courses are an extension of Artificial Intelligence by Example by Denis Rothman:<br/>
@@ -17,7 +18,7 @@ The courses are an extension of Artificial Intelligence by Example by Denis Roth
 
 ## Programs
 The programs for the course run both on Windows and Linux (see Ubuntu VM below).
-You can view and download them.
+You can view and download them. They will be available 24h hours before the beginning of the course.
 Some programs will be developed and run on cloud platforms.
 
 ## License and disclaimer
