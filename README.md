@@ -18,12 +18,12 @@ The courses are an extension of Artificial Intelligence by Example by Denis Roth
 
 ## Programs
 The programs for the course run both on Windows and Linux (see Ubuntu VM below).
-You can view and download them. They will be available 24h hours before the beginning of the course.
+You can view and download them from the HOC directory.
 Some programs will be developed and run on cloud platforms.
 
 ## License and disclaimer
 The programs are under the MIT License.
-THe programs are for educational purposes.
+THe programs are for educational purposes only.
 Thus do not use them before checking Google, Facebook and Twitter security policies.
 Also be sure to follow web and General Data Protection Regulations (GDPR).
 Take your time and explore each policy rule.
