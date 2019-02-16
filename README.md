@@ -92,67 +92,82 @@ With this in mind, the course will take you where you need to be to finalize you
 Note: There is no need to install  Node.js.  We will use an online version installed in our Google Dialogflow environment.
 
 ### Schedule:
-The timeframes are only estimates and may vary according to how the class is progressing
+The timeframes are only estimates and may vary according to how the class ises progressingse
  
-### DAY 1 (~4 hours)
-### Section 1: Building and getting your Chatbot online on your website (Instructor Lecture, lab, Q&A), duration: 1 hour
-Lecture: create a fully operational basic Chatbot with Google Dialogflow.
-Run the Chatbot on as an operational service on your website from any machine or Smartphone. Chrome is recommended for this exploration. Any recent browser can be used beyond this first implementation. 
-Lab: Explore the basic concepts of a chatbot and implement them during the live session.
-Break: 10 mins
-
-### Section 2: Using a Chatbot with Facebook Messenger (Instructor Lecture, lab, Q&A), duration: 1 hour
-Lecture: Introducing node.js as a local server and Ngrok for a public URL through a local installation. Basic node.js installation, use, and motivation will be explained. Node.js will be further explored in Section 6: Dialogflow Fulfillment, Dialogflow Fulfilment.
-Note: Google Fulfilment uses an integrated version of node.js (nothing to install locally). You can thus choose to only use an online version of node.js and just follow the course for the local version to see how it is used.
-Lab: Deploy a basic NLP Chatbot for Facebook Messenger and run it on a local machine or in a Facebook Messenger app on a smartphone.
+The timeframes are only estimates and may vary according to how the class is progressing.
+##DAY 1 (~4 hours)
+##Section 1: Building and getting your Chatbot online on your website (Instructor Lecture,se lab, Q&A), duration: 1 hour
+Lecture: How to create a fully operational basic Chatbot with Google Dialogflow.
+Run the Chatbot on as an operational service on your website from any machine or Smartphone. Chrome is recommended for this exploration. Any recent browser can be used beyond this first implementationse. 
+##Lab: Explose
+##re the basic concepts of a chatbot and implement them on your website during the live session. Your newly created chatbot will also be able to run with an url, you can add to your social network page(s).
+Break: 10 misens
+##Section 2: Enhancing your Chatbot with rich dialogs(Instructor Lecture, lab, Q&A), duration: 1 hour
+se
+se
+##Lecture: How to make your chatbot more human with many possible variations of the same dialog, small talk and leak detection. Leak detection  functions will be explored through the chatbot's logs to find unanswered questions, mismatches, and errors.
+##Lab: Enabling Small Talk functions, learning how to detect leaks in the dialog through the log files and the query interface.
 Modify the NLP Chatbot to adapt to the user’s needs. Improve the dialog. 
 Break: 10 mins
-
-### Section 3: Let’s get a Chatbot running on Twitter (Instructor Lecture, lab, Q&A), duration: 1 hour
-Lecture: How to deploy a basic node.js NLP Chatbot on Twitter using Tweets.
-Explore the functionality through real-life conversations with the bot.
-Lab: Deploying a node.js basic chatbot server to get the feel of a Twitter chatbot.
+se
+##Section 3: The integration functions for Facebook, Twitter, Alexa and other platforms (Instructor Lecture, lab, Q&A), duration: 1 hour
+Lecture: Building a solid practical chatbot takes  a lot of energy and time. We will explore how to use your chabot on multiple platforms through powerful integration interfaces that do not require writing code. 
+se
+##Lab: Explore an existing chatbot built on one platform , Google Dialogflow, on another platform, Facebook. 
+Modify the NLP Chatbot to adapt to the user’s needs. Improve the dialog. 
 Break: 10 mins
- 
-### Section 4: Customizing Google Assistant with a Chatbot (Instructor Lecture, lab, Q&A), duration: 1 hour
-Lecture: The different ways to run a customized NLP Chatbot with Google Assistant. Add exciting media to your dialogs. Learning how to run Google Assistant on all platforms and use it with smartphones (“Go Google”).
+se
+##Section 4: Customizing Google Assistant with a Chatbot (Instructor Lecture, lab, Q&A), duration: 1 hour
+se
+##Lecture: The different ways to run a customized NLP Chatbot with Google Assistant. Add exciting media to your dialogs. Learning how to run Google Assistant on all platforms and use it with smartse
+##phones (“Go Google”).
 Learning how to improve the NLP Chatbot through conversational traps.
-Lab: Deploying a chatbot on Google Assistant and preparing it to apply for Google validation to be used on Android, Google Home, and other platforms.
-
-### DAY 2 (~4 hours)
-### Section 5: Transform Google Home into a powerful personal assistant with a customized Chatbot (Instructor Lecture, lab, Q&A), duration: 1 hour
-Lecture: How to customize an NLP voice Google Assistant Chatbot for Google Home. 
-You will see how the chatbot can then be exported for Amazon Alexa and other platforms if you wish once the course is completed and your chatbot ready.
-Advanced examples will be provided for Google Home with real-life applications and explore the use of Google Assistant on Android Smartphones for both personal use and corporate use.
-Lab:   The chatbot will be explored through the Google Assistant simulator to understand how the actions work.
+se
+##Lab: Beginning to deploying a chatbot on Google Assistant and preparing it to apply for Google validation to be used on Android,se Google Home, and other platforms.
+##DAY 2 (~4 hours)
+se
+##Section 5: Transform Google Home into a powerful personal assistant with a customized Chatbot (Instructor Lecture, lab, Q&A), duration: 1 hour
+se
+##Lecture: How to customize an NLP voice Google Assistant Chatbot for Google Home. 
+You will see how the chatbot can then be exported for Amazon Alexa and other platforms if you wish once the course is completed andse
+## your chatbot ready.
+Ase
+##dvanced examples will be provided for Google Home with real-life applications and explore the use of Google Assistant on Android Smartphones for both personal use and corporate use.
+se
+##Lab:   The chatbot will be explored through the Google Assistant simulator to understand how the actions work.
 Break: 10 mins
-
-### Section 6: Let’s add services to a Chatbot through Dialogflow Fulfilment (Instructor Lecture, lab, Q&A), duration: 1 hour
-Lecture: Using some of the advanced Dialogflow node.js JavaScript functions to customize the chatbot and link it to other websites and services.
-Explore standard functions and train the NLP Chatbot further as a human with its life dialog experience.
-Lab: Building and Running fulfillment inline node.js JavaScript programs.
+se
+##Section 6: Let’s add services to a Chatbot through Dialogflow Fulfilment (Instructor Lecture, lab, Q&A), duration: 1 hour
+Lecture: We will explore how to use some of the advanced Dialogflow node.js JavaScript functions to customize the chatbot and link it to se
+##other websites and services.
+Note: Google Fulfilment uses an integrated version of node.js (nothing to install locally). 
+Lab: We will then using some of the advanced Dialogflow node.js JavaScript functions to customize the chatbot and link it to other websites and services.
 Break: 10 mins
-
-### Section 7: Let’s make the Chatbot smarter with machine learning (Instructor Lecture, lab, Q&A), duration: 1 hour
+se
+##Section 7: Let’s make the Chatbot smarter with machine learning (Instructor Lecture, lab, Q&A), duration: 1 hour
 Lecture: Explore ways to include machine learning modules into an NLP Chatbot to transform it into a cognitive Chatbot. 
-At this point, the Chatbot, with the services described in Section 6 and cognitive machine learning functions will begin to understand concepts better than humans in many areas.
-Lab: Implementing an artificial intelligence chatbot that will chat while calling a ready-to-use machine learning program.
+At this point, the Chatbot, with the services described in Section 6 and cognitive machine learning functions will begin to understand ssee
+##concepts better than humans in many areas.
+##Lab: Implementing an artificial intelligence in your chatbot through  ready-to-use machine learning functions.
 Break: 10 mins
-
-### Section 8: Fully Autonomous Services that will help a Chatbot make decisions faster than a human in specific fields (1 Hour - Instructor Lecture + Q&A)
-Lecture: Explore how to transform an NLP Cognitive Chatbot into a real-time decision-making tool for professional through a case study in the trend used by corporations such as Amazon’s real-time apparel manufacturing process. Discover how cognitive chatbots will totally surpass humans in both services and manufacturing in the near future.
-The chatbot users will begin to view the chatbot as a vital personal asset. Explore how chatbots will become independent super-intelligent entities in the near future. Understand how AI connected humans will surpass unconnected humans.
-Lab: Implementing a basic prototype for a decision-making chatbot manager that can replace an unavailable manager or an expert. The team can ask questions and obtain critical answers.
-
-### Wrap-up:  Summary, Discussions (30 min)
+se
+##Section 8: Fully Autonomous Services that will help a Chatbot make decisions faster than a human in specific fields (1 Hour - seInstructor Lecture + Q&A)
+seLecture: Explore how to transform an NLP Cognitive Chatbot into a real-time decision-making tool for professional through a case study in the trend used by corporations such as Amazon’s real-time apparel manufacturing process. Discover how cognitive chatbots will totally## surpass humans in both services and manufacturing in the near future.
+##The chatbot users will begin to view the chatbot as a vital personal asset. Explore how chatbots will become independent super-intelligent entities in the near future. Understand how AI connected humans will surpass unconnected humans.
+se
+##Lab: Implementing a basic prototype for a decision-making chatbot manager that can replace an unavailable manager or an expert. The teamse can ask questions and obtain critical answers.
+Wrap-up:  Summary, Discussions (30 min)
 Interactive Discussion on the basic and ground-breaking aspects of the course
+##se
+ ##
+## About the Instrucse
+##tor
  
- 
-## About the Instructor
- 
-Denis Rothman graduated from l'Université Paris-Sorbonne and l'Université Paris-Diderot, writing one of the very first word2matrix embedding solutions.  
-He began his career authoring one of the first AI cognitive Chatbot 30+ years ago applied to a cognitive & digitized language teaching Chatbot. He customized it for Moët et Chandon (LVMH) and scores of companies in various forms.[more...](https://www.linkedin.com/pulse/did-you-miss-ai-parsing-train-denis-rothman)<br/>
-He has authored a profit orientated AI resource optimizing system written in Horn Clauses in Prolong for IBM and implemented in corporate environments. He also transposed it in C++, Java and presently in Python/Tensorflow. 
+Denis Rothman graduated from Sorbonne University and l'Université Paris-Diderot, writing one of the very first word2matrix embedding solutions.  
+He began his career authoring one of the first AI cognitive Chatbot 30+ years ago applied to a cognitive & digitized language teaching Cse
+##hatbot. He customized it for Moët et Chandon (LVMH) and scores of companies in various forms.[more...](https://www.linkedin.com/pulse/did-you-miss-ai-parsing-train-denis-rothman)<br/>
+He has authored a profit orientated AI resource optimizing system written in Horn Clauses in Prolong for IBM and implemented ise
+##n corporate environments. He also transposed it in C++, Java and presently in Python/Tensorflow. 
 In the years after, he authored an AI APS (Advanced Planning and Scheduling) solution based on cognitive patterns. This #AI software is used worldwide to this day in the aerospace, train, energy, apparel and many other corporate fields. 
  
 Name: Denis Rothman
