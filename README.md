@@ -82,13 +82,13 @@ You will be implementing this during the live training on your website (you can 
 With this in mind, the course will take you where you need to be to finalize your goals right after the course.
  
  
-Materials, downloads, or Supplemental Content needed in advance <br/>
-·         [Github programs](https://github.com/Denis2054/Hands-on-Chatbots) 
+###Materials, downloads, or Supplemental Content needed in advance <br/>
+·         [Github programs](https://github.com/Denis2054/Hands-on-Chatbots) <br/>
 
-·         (The material will be downloadable in real-time during the course. The size of the packages will remain small enough to that effect.)
-·         Google Account
-·         Dialogflow account
-·         Chrome (just for the course to be sure; after the course, any browser that works well with JavaScript) with Chrome V8
+·         The material will be downloadable in real-time during the course. The size of the packages will remain small enough to that effect.<br/>
+·         Google Account<br/>
+·         Dialogflow account<br/>
+·         Chrome (just for the course to be sure; after the course, any browser that works well with JavaScript) with Chrome V8<br/>
 Note: There is no need to install  Node.js.  We will use an online version installed in our Google Dialogflow environment.
 
 ### Schedule:
