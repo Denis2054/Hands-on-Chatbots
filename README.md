@@ -47,13 +47,13 @@ Once the file is downloaded
 
 ## Outline of the course
 
-This pratical chatbot course for beginners covers both types of conversational UI’s, i.e., Chatbot NLP text and speech user interfaces, to reach through multiple devices and platforms. We will take a project-based approach to understand how these UIs are built and the best use cases for deploying them.<br>
+This pratical chatbot course for beginners covers both types of conversational UI’s, i.e., Chatbot NLP text and speech user interfaces, to reach through multiple devices and platforms. We will take a project-based approach to understand how these UIs are built and the best use cases for deploying them.<br><br>
 We will start by building a basic NLP Chatbot with the newly-acquired-by-Google Dialogflow and implement it on your website. At this point, you will have a customized text and voice Chatbot you can use for professional or personal use, ready on your website.<br>
-Moving on to an in-depth understanding of the Chatbot, we will explore leak management addressing the questions that were entered by a user and did not find an answer. We will learn how to bring the quality of the chatbot to a higher level.<br>
-Moving on to Facebook Messenger we will understand the basics of bot integration & see how to integrate Chatbot to social networks. We will explore text and speech UIs capable of interacting with digital personal assistants such as Google Assistant and Google Home. We will then run the applications on PCs and smartphones.<br>
-Finally, we move on to creating a Task model that can perform complex tasks such as ordering and planning events. We will use the Fulfilment functions of Google Dialog Flow to implement a web service, sending requests and waiting for responses. We will implement ready-to-use machine learning algorithms to enhance the services.<br>
-By the end of the course, you will be confident enough to create your line of Chatbots and speech UIs on the platforms we have studied. You will also be confident enough to continue your seamless integrations through Dialogflow’s cross-platform functionality on leading platforms such as Amazon Alexa, Microsoft Azure’s framework for Crotona or Skype, and more.<br>
-You will also have learned how to build a solid text/speech Chatbot standalone website version that you can deploy, update and maintain on several platforms seamlessly. 
+Moving on to an in-depth understanding of the Chatbot, we will explore leak management addressing the questions that were entered by a user and did not find an answer. We will learn how to bring the quality of the chatbot to a higher level.<br><br>
+Moving on to Facebook Messenger we will understand the basics of bot integration & see how to integrate Chatbot to social networks. We will explore text and speech UIs capable of interacting with digital personal assistants such as Google Assistant and Google Home. We will then run the applications on PCs and smartphones.<br><br>
+Finally, we move on to creating a Task model that can perform complex tasks such as ordering and planning events. We will use the Fulfilment functions of Google Dialog Flow to implement a web service, sending requests and waiting for responses. We will implement ready-to-use machine learning algorithms to enhance the services.<br><br>
+By the end of the course, you will be confident enough to create your line of Chatbots and speech UIs on the platforms we have studied. You will also be confident enough to continue your seamless integrations through Dialogflow’s cross-platform functionality on leading platforms such as Amazon Alexa, Microsoft Azure’s framework for Crotona or Skype, and more.<br><br>
+You will also have learned how to build a solid text/speech Chatbot standalone website version that you can deploy, update and maintain on several platforms seamlessly. <br><br>
 ### What is this training about, and why is it important?
 This training is aimed at teaching you to improve your processes by creating a fully operational Chatbot through Google Dialogflow that can be deployed on many platforms. You will be able to explore the ground-breaking combination of Chatbot Text/Voice UIs, event scheduling, and Machine Learning. You will be able to use this course to promote yourself through bots on your favorite social networks, enhance your company’s web services and improve the establishing of your personal brand.
  
@@ -84,27 +84,13 @@ With this in mind, the course will take you where you need to be to finalize you
  
 Materials, downloads, or Supplemental Content needed in advance <br/>
 ·         [Github programs](https://github.com/Denis2054/Hands-on-Chatbots) 
+
+·         (The material will be downloadable in real-time during the course. The size of the packages will remain small enough to that effect.)
 ·         Google Account
 ·         Dialogflow account
 ·         Chrome (just for the course to be sure; after the course, any browser that works well with JavaScript) with Chrome V8
-·         Node.js  as a server
-·         Express.js (framework for Node.js)
-·         Ngrok account(local server for web services)
-·         Facebook account and Facebook developer account
-·         Twitter account and Twitter developer account
-·         Python 3.5 or 3.6 (Python is optional but interesting if possible!)
-       
- 
-*for node.js it is recommended to run the following commands in your console to install the local packages for the course: 
-npm init 
-npm install express
-npm install express body-parser --save
-npm install —- save request
-npm install —- save apiai
-npm install twitter
- 
-(In case, any of the above is hard to procure before the course, complete assistance will be provided during nothe course. E.g., if you experience problems installing node.js, express and Ngrok, you can use the inbuilt version of node.js directly online.)
- 
+Note: There is no need to install  Node.js.  We will use an online version installed in our Google Dialogflow environment.
+
 ### Schedule:
 The timeframes are only estimates and may vary according to how the class is progressing
  
